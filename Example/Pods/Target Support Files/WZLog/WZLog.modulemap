@@ -1,0 +1,6 @@
+framework module WZLog {
+  umbrella header "WZLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

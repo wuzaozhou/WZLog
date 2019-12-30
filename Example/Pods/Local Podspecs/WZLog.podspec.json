@@ -1,0 +1,22 @@
+{
+  "name": "WZLog",
+  "version": "0.1.0",
+  "summary": "A short description of WZLog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wuzaozhou/WZLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wuzaozhou": "wuzaozhou@yy.com"
+  },
+  "source": {
+    "git": "https://github.com/wuzaozhou/WZLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WZLog/Classes/**/*"
+}
