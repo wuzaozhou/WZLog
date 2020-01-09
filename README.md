@@ -19,7 +19,9 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'WZZLog'
 ```
-
+```
+WZLog(@"model", msd);
+```
 ## Author
 
 wuzaozhou, wuzaozhou@yy.com
